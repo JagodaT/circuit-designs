@@ -11,7 +11,7 @@ like). As a result, expect lots of homemade Vactrols and no JFETs.
 
   - [Tremolo](./content/tremolo.html)
   - [Envelope Filter](./content/envelope.html)
-  - [Ring Modulator](./content/ring_mod.hmtl)
+  - [Ring Modulator](./content/ring_mod.html)
   - [BJT Booster](./content/bjt_booster.html)
   - [Booster/Buffer](./content/booster_buffer.html)
   - [Wien Bridge Oscillator](./content/wien.html)
@@ -19,4 +19,4 @@ like). As a result, expect lots of homemade Vactrols and no JFETs.
 
 ## Stuff I designed and simulated, but haven’t built yet
 
-  - [VCA](./content/VCA.html)
+  - [VCA](./content/vca.html)

@@ -14,7 +14,7 @@ This is my repository of circuits I designed (or coppied/modded). All of them ar
 
 + [Tremolo](./content/tremolo.html)
 + [Envelope Filter](./content/envelope.html)
-+ [Ring Modulator](./content/ring_mod.hmtl)
++ [Ring Modulator](./content/ring_mod.html)
 + [BJT Booster](./content/bjt_booster.html)
 + [Booster/Buffer](./content/booster_buffer.html)
 + [Wien Bridge Oscillator](./content/wien.html)
@@ -23,7 +23,7 @@ This is my repository of circuits I designed (or coppied/modded). All of them ar
 
 ## Stuff I designed and simulated, but haven't built yet
 
-+ [VCA](./content/VCA.html)
++ [VCA](./content/vca.html)
 
 
 

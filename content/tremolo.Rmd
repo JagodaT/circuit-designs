@@ -10,6 +10,8 @@ LFO is a relaxation oscillator, with "triangle" (more like a sharktooth) and squ
 
 <center>
 
+
+
 ![](../img/tremolo.jpg){width=80%}
 
 

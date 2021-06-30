@@ -1,7 +1,7 @@
 Circuit Portifolio
 ================
 
-This is my repository of circuits I designed (or coppied/modded). All of
+This is my repository for circuits I designed (or coppied/modded). All of
 them are powered by 9V single supply. Bypassing circuit is omitted (a
 true bypass using a 3PDT should do it). The designs are constrained by
 the availability of components in my area (which is less than I would

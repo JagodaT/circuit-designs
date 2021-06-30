@@ -1,4 +1,4 @@
-Portifolio
+Circuit Portifolio
 ================
 
 This is my repository of circuits I designed (or coppied/modded). All of

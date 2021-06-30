@@ -12,18 +12,18 @@ This is my repository of circuits I designed (or coppied/modded). All of them ar
 
 ## Stuff I've built
 
-+ [Tremolo]("./content/tremolo.html")
-+ [Envelope Filter]("./content/envelope.html")
-+ [Ring Modulator]("./content/ring_mod.hmtl")
-+ [BJT Booster]("./content/bjt_booster.html")
-+ [Booster/Buffer]("./content/booster_buffer.html")
-+ [Wien Bridge Oscillator]("./content/wien.html")
-+ [Unbalanced to Balanced converter]("./content/unbal_to_bal.html")
++ [Tremolo](./content/tremolo.html)
++ [Envelope Filter](./content/envelope.html)
++ [Ring Modulator](./content/ring_mod.hmtl)
++ [BJT Booster](./content/bjt_booster.html)
++ [Booster/Buffer](./content/booster_buffer.html)
++ [Wien Bridge Oscillator](./content/wien.html)
++ [Unbalanced to Balanced converter](./content/unbal_to_bal.html)
 
 
 ## Stuff I designed and simulated, but haven't built yet
 
-+ [VCA]("./content/VCA.html")
++ [VCA](./content/VCA.html)
 
 
 

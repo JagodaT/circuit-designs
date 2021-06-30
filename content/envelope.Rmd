@@ -9,5 +9,8 @@ My take on the classic Mutron envelope filter using a single supply (the Mutron 
 
 <br>
 
+<center>
 
 ![](../img/envelope.jpg)
+
+</center>

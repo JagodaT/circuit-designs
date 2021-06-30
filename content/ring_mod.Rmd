@@ -10,5 +10,8 @@ I found that the it sounds slightly better using a sinusoidal carrier, for which
 
 <br>
 
+<center>
 
 ![](../img/ringmod.jpg)
+
+</center>

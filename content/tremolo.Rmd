@@ -8,5 +8,9 @@ output: html_document
 Simple tremolo circuit using LDR's. Besides amplitude modulation, there's an one pole low pass filter modulation.
 LFO is a relaxation oscillator, with "triangle" (more like a sharktooth) and square outputs.
 
+<center>
 
 ![](../img/tremolo.jpg){width=80%}
+
+
+</center>

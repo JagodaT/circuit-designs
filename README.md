@@ -12,7 +12,7 @@ projects.
 
 ## Stuff I’ve built
 
--   [Phaser](./content/phares.html)
+-   [Phaser](./content/phaser.html)
 -   [Tremolo](./content/tremolo.html)
 -   [Envelope Filter](./content/envelope.html)
 -   [Ring Modulator](./content/ring_mod.html)

@@ -14,3 +14,5 @@ My take on the classic Mutron envelope filter using a single supply (the Mutron 
 ![](../img/envelope.jpg)
 
 </center>
+
+REV: the actual opamps used were LM324's. The TL's wont have enough current output to drive the LED's.
